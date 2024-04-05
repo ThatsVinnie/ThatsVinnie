@@ -25,9 +25,12 @@
   <!-- Dropdown -->
   <details>
     <summary>👨‍💻 About me</summary>
+    <p>
+      - 💬 I'm 22 years old, currently living in Brazil. I have fluency in English, B2 Cambrigde Level.
+      
+      - ⚙ I have experience with JS, Node.JS, C#, MYSQL and Microsoft Dynamics.      
+    </p>
 
-    - 💬 I'm 22 years old, currently living in Brazil. I have fluency in English, B2 Cambrigde Level.
-    - ⚙ I have experience with JS, Node.JS, C#, MYSQL and Microsoft Dynamics.
 
   </details>
 
