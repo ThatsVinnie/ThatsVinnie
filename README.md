@@ -3,6 +3,9 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there!</h1></summary>
 </div>
+<p>
+  I'm Vinícius Barbosa, a back-end developer.
+</p>
 
 <!-- GithubStats -->
   <div align="center">
@@ -12,7 +15,6 @@
     
   <!-- Presentation -->
   <p>
-    I'm Vinícius Barbosa, a back-end developer.
 
     - 🌱 I’m currently studying Information Technology (IT) Systems Analysis and Development.
 
