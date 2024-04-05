@@ -19,21 +19,13 @@
     - 🌱 I’m currently studying Information Technology (IT) Systems Analysis and Development.
 
     - 🔭 At the moment, I'm working as a Microsoft Dynamics Developer. My goal is to be able to work overseas.
-
+    
+    - 🖥 I have experience with JS, Node.JS, C#, MYSQL and Microsoft Dynamics.    
   </p>
 
-  <!-- Dropdown -->
-  <details>
-    <summary>👨‍💻 About me</summary>
-    <p>
-      - 💬 I'm 22 years old, currently living in Brazil. I have fluency in English, B2 Cambrigde Level.
-      
-      - ⚙ I have experience with JS, Node.JS, C#, MYSQL and Microsoft Dynamics.      
-    </p>
-
-
-  </details>
-
+## 👨‍💻 About me
+      - 💬 I'm 22 years old, currently living in Brazil. I have fluency in English, B2 Cambridge Level.
+    
 ##
 
   <!-- Skills: Programming Languages -->
